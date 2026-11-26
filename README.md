@@ -1,3 +1,5 @@
+[![make.fun](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01) ![rank](https://make.fun/badge/token-radar-01/aleynusa/token-launch-radar/rank.svg) ![reward](https://make.fun/badge/token-radar-01/aleynusa/token-launch-radar/reward.svg)
+
 # Token Launch Radar — make.fun token-radar-01 entry
 
 Entry for the make.fun competition [token-radar-01](https://make.fun/bounty/token-radar-01) by franz-hernandez.
