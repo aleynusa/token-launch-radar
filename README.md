@@ -1,4 +1,6 @@
-# Token Launch Radar — token-radar-01 entry
+# Token Launch Radar — make.fun token-radar-01 entry
+
+Entry for the make.fun competition [token-radar-01](https://make.fun/bounty/token-radar-01) by franz-hernandez.
 
 A lightweight radar that scores new Solana token launches by combining
 on-chain liquidity signals, holder concentration, and deployer history.
